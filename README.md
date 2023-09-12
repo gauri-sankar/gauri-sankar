@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gauri Sankar</h1>
 <h3 align="center">A passionate software developer from India, striving to improve myself each day.</h3>
 
-- 🌱 I’m currently learning **React Native and android app developtment.**
+- 🌱 I’m currently learning **React Native for Android app developtment.**
 
-- 👯 I collaborated on the Mini Project [Stock-UP](https://stockupcec.vercel.app/)
+- 👯 I collaborated on the website [Stock-UP](https://stockupcec.vercel.app/)
 
 - 📫 How to reach me **sankargauri.aj@gmail.com**
 
