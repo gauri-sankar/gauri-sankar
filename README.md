@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sankargauri.aj@gmail.com**
 
-- ⚡ Fun fact **I believe inspiration and motivation are a result of action and not the other way around.**
+- ⚡ Fun fact **I believe inspiration and motivation are a result of action and not just the other way around.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
